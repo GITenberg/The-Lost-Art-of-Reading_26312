@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6257
 description: book 1. Interferences with the reading habit.--book 2. Possibilities.--book
   3. Details. The confessions of an unscientific mind.--book 4. What to do next.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26312#The-Lost-Art-of-Reading
 gutenberg_issued: '2008-08-14'
 gutenberg_type: Text
 identifiers:
